@@ -1,1 +1,1 @@
-# podspecs
+# etracker Specs Repo
